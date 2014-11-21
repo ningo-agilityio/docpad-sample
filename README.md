@@ -1,0 +1,4 @@
+docpad-sample
+=============
+
+docpad-sample
